@@ -17,17 +17,17 @@ frame, and generates a shareable collage — all processed locally on the device
 
 ## Features
 
-- 🎥 Select a portrait video from the device
-- 👤 Detect multiple faces across video frames
-- 🧠 Generate face embeddings using MobileFaceNet
-- 🔗 Group detections belonging to the same person
-- ⏱️ Count separate appearances of each person
-- 🖼️ Select a representative frame for each person
-- ✨ Generate an Instagram-Story-style collage
-- 📱 Fully on-device processing
-- 🔒 No video or face data needs to be uploaded to a server
-- 💾 Save the generated collage to the gallery
-- 📤 Share the collage using Android's sharing system
+- Select a portrait video from the device
+- Detect multiple faces across video frames
+- Generate face embeddings using MobileFaceNet
+- Group detections belonging to the same person
+- Count separate appearances of each person
+- Select a representative frame for each person
+- Generate an Instagram-Story-style collage
+- Fully on-device processing
+- No video or face data needs to be uploaded to a server
+- Save the generated collage to the gallery
+- Share the collage using Android's sharing system
 
 ## How It Works
 

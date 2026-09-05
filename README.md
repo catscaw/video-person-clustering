@@ -166,6 +166,13 @@ Text overlays
 
 The resulting bitmap can be saved to the device gallery or shared directly.
 
+9. Face Similarity Threshold
+
+Face embeddings are compared using cosine similarity. The clustering pipeline uses a 0.62 similarity threshold when determining whether two face detections are similar enough to be assigned to the same person cluster.
+
+A higher threshold makes matching more conservative, while a lower threshold allows greater variation in appearance but can increase the risk of incorrectly grouping different people.
+
+
 Architecture
 Compose UI
    │
